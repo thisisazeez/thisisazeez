@@ -1,7 +1,7 @@
 ```json
 {
     "name": "Abdulazeez",
-    "title": "Frontend Developer and Designer",
+    "title": "Full Stack Developer",
     "skills": ["HTML", "CSS", "JavaScript", "Django", "Vuejs", "Figma"],
     "what_i_am_learning": ["Go", "Typescript", "and more Vuejs"],
     "socials": {
