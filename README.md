@@ -1,16 +1,15 @@
-### Hi there 👋
+```json
+{
+    "name": "Abdulazeez",
+    "title": "Frontend Developer and Designer",
+    "skills": ["HTML", "CSS", "JavaScript", "Django", "Vuejs", "Figma"],
+    "what_i_am_learning": ["Go", "Typescript", "and more Vuejs"],
+    "socials": {
+        "github": "github.com/thisisazeez",
+        "devto": "dribbble.com/thisisazeez",
+    }
+}
+```
 
-<!--
-**thisisazeez/thisisazeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.buymeacoffee.com/A.A.Sheriff" target="_blank"><img src="./buy-me-a-coffee.svg" alt="Buy Me A Coffee: @A.A.Sheriff" width="160"></a>&nbsp;&nbsp;
+<p>Thank you so much for your support. 💖</p>
