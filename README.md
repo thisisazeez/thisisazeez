@@ -6,7 +6,7 @@
     "what_i_am_learning": ["Go", "Typescript", "and more Vuejs"],
     "socials": {
         "github": "github.com/thisisazeez",
-        "devto": "dribbble.com/thisisazeez",
+        "devto": "dev.to/thisisazeez",
     }
 }
 ```
