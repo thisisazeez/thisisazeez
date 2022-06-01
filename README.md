@@ -2,8 +2,8 @@
 {
     "name": "Abdulazeez",
     "title": "Full Stack Developer",
-    "skills": ["HTML", "CSS", "JavaScript", "Python", "Django", "Vuejs"],
-    "what_i_am_learning": ["Go", "Typescript", "and more Vuejs"],
+    "skills": ["HTML", "CSS", "JavaScript", "Python", "Django", "Vuejs", "Nodejs"],
+    "what_i_am_learning": ["Go", "Typescript", "and Reactjs"],
     "socials": {
         "github": "github.com/thisisazeez",
         "devto": "dev.to/thisisazeez",
