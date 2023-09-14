@@ -3,7 +3,6 @@
     "name": "Abdulazeez",
     "title": "Full Stack Developer",
     "skills": ["HTML", "CSS", "JavaScript", "Python", "Django", "Vuejs", "Nodejs", "Reactjs"],
-    "what_i_am_learning": ["Go", "DevOps"],
     "socials": {
         "github": "github.com/thisisazeez",
         "devto": "dev.to/thisisazeez",
