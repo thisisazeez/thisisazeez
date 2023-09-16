@@ -5,7 +5,8 @@
     "skills": ["HTML", "CSS", "JavaScript", "Python", "Django", "Vuejs", "Nodejs", "Reactjs"],
     "socials": {
         "github": "github.com/thisisazeez",
-        "devto": "dev.to/thisisazeez",
+        "linkedin": "https://www.linkedin.com/in/sifusherif",
+        "twitter": "https://www.x.com/sifusherif",
     }
 }
 ```
