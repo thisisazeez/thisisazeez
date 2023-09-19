@@ -1,4 +1,25 @@
-```json
+<img  src="./thisisazeez.png" alt="OctoAzeez">
+
+<h3>👋 Hello! I'm Abdulazeez.</h3>
+
+<!-- <p>
+  <a href="https://www.linkedin.com/in/sifusherif">Linkedin</a> •
+  <a href="https://x.com/sifusherif">Twitter</a>
+</p> -->
+
+#### A Full-Stack Developer by day ☼ and a Community Contributor by night ☾
+
+## Get in touch ☕
+
+- Your future buddy to discuss Android related things and tech in general on [Twitter](https://x.com/sifusherif).
+- Your future life savior on  📚 [Medium](https://medium.com/@sifusherif).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/sifusherif)
+- GitHub, well, you're already in the code rabbit hole (Recursion). 🐇.
+
+
+<img  src="./azeezoctocat1.png" alt="OctoAzeez" width="260">
+
+<!-- ```json
 {
     "name": "Abdulazeez",
     "title": "Full Stack Developer",
@@ -9,7 +30,7 @@
         "twitter": "https://www.x.com/sifusherif",
     }
 }
-```
+``` -->
 
 <!-- ![Azeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisazeez&show_icons=true&theme=tokyonight) -->
 
