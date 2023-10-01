@@ -1,6 +1,6 @@
 <img  src="./thisisazeez.png" alt="OctoAzeez">
 
-<h3>👋 Hello! I'm Abdulazeez.</h3>
+### 👋 Hello! I'm Abdulazeez.
 
 
 #### A Full-Stack Developer by day ☼ and a Community Contributor by night ☾
