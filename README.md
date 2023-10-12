@@ -1,4 +1,4 @@
-<img  src="./thisisazeez.png" alt="OctoAzeez">
+<img  src="./thisisazeez.png" alt="OctoAzeez" />
 
 ### 👋 Hello! I'm Abdulazeez.
 
