@@ -7,8 +7,8 @@
 
 ## Get in touch ☕
 
-- Your future buddy to discuss Python related things and tech in general on [Twitter](https://x.com/sifusherif).
-- Your future life savior on  📚 [Medium](https://medium.com/@sifusherif).
+- Your future buddy to discuss Python-related things and tech in general on [Twitter](https://x.com/sifusherif).
+- Your future life saver on  📚 [Medium](https://medium.com/@sifusherif).
 - GitHub, well, you're already in the code rabbit hole (Recursion). 🐇.
 
 
